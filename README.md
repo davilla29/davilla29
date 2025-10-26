@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Bolarinwa David** — a passionate **Full-Stack Developer** exploring the world of web development.  
+I'm **Bolarinwa David** — a passionate **Software Developer** exploring the world of web development.  
 I enjoy building modern applications with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> **React**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js**, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20"/> **MongoDB**, and I'm currently expanding my skills in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python** and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20"/> **TypeScript**.
 
 ---
